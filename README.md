@@ -62,6 +62,5 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Bast
 
 Este projeto está licenciado sob a MIT License.
 
----
 
-Adicione este texto ao arquivo `README.md` na raiz do seu projeto.
+
